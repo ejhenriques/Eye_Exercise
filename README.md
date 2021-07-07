@@ -9,7 +9,7 @@ On this project, the goal was to make two eyes that follow the mouse movements o
 
 # 	:dart: Future Improvements:
 
-- Calculate and show an ETA (Estimated Time of Arrival), based on historic information
+- Blinking eyes!! :wink:
 
 # :registered: Licence Information:
 
